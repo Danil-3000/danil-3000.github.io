@@ -108,7 +108,7 @@ p {
 b {
     font-size: 10px;
     font-weight: 300;
-    font-weight: 500;
+    font-weight: 400;
 }
 i{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -170,18 +170,18 @@ h2{
 p1{
     font-family: HelveticaNeueCyr, Arial, sans-serif;  
     font-size: 9px;
-    font-weight: 500;
+    font-weight: 400;
 }
 h3 {
     font-family: HelveticaNeueCyr, Arial, sans-serif;  
     font-size: 9px;
-    font-weight: 500;
+    font-weight: 400;
 }
 h4 {
     margin: 12px 0 auto;
     font-family: HelveticaNeueCyr, Arial, sans-serif;  
     font-size: 9px;
-    font-weight: 500;
+    font-weight: 400;
 }
 .cv1{
     padding-top: 65px;
