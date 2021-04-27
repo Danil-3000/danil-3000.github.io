@@ -1,0 +1,250 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+  
+  
+  *,
+  *:before,
+  *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  
+  :focus,
+  :active {
+    outline: none;
+  }
+  a:focus,
+  a:active {
+    outline: none;
+  }
+  
+  
+  nav,
+  footer,
+  header,
+  aside {
+    display: block;
+  }
+  
+  
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  
+  input,
+  button,
+  textarea {
+    font-family: inherit;
+  }
+  
+  
+  input::-ms-clear {
+    display: none;
+  }
+  button {
+    cursor: pointer;
+  }
+  button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+  }
+  a,
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  ul li {
+    list-style: none;
+  }
+  img {
+    vertical-align: top;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: inherit;
+    font-weight: 400;
+  }
+в процентах указать отступы
+макс видс
+позишн абсолют
+body{
+    margin: 0;
+    link 
+}
+.block {
+    padding-left: 30px;  
+    padding-bottom: 50px;
+    float: left; /* Обтекание по правому краю */
+    width: 500px; /* Ширина блока */
+}
+p {
+ font-family: helvetica, arial, sans-serif;  
+ font-size: 18px;
+ font-weight: 500;
+}
+b {
+    font-size: 10px;
+    font-weight: 300;
+}
+i{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+.text1 {
+padding-top: 30px;
+}
+.text12 {
+   padding-top: 56px;
+}
+.text2 {
+    padding-top: 30px;
+}
+.text3 {
+    padding-top: 80px;
+}
+.text4 {
+padding-top: 30px;
+}
+.text5 {
+    padding-top: 30px;
+}
+.text6 {
+   padding-top: 250px;
+}
+.text7 {
+    padding-top: 30px;
+}
+.text8 {
+    padding-top: 30px;
+}
+.text9 {
+    padding-top: 30px;
+}
+.text10 {
+    padding-top: 90px;
+}
+.text11 {
+    padding-top: 55px;
+}
+.block1 {
+    padding-top: 30px;
+}
+.cv {
+ 
+}
+.education {
+    padding-top: 60px;
+}
+.exp {
+    padding-top: 40px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 12px;
+    font-weight: 700;  
+}
+p1{
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 9px; 
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 9px;
+}
+h4 {
+    margin: 12px 0 auto;
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 9px;
+}
+.cv1{
+    padding-top: 65px;
+}
+.usaa{
+    padding-top: 30px;
+}
+.hse{
+    padding-top: 15px;
+}
+.rock
+{
+ padding-top: 30px; 
+}
+
+.comps-left
+{
+    float: left;
+    width: 120px;
+}
+
+.comp1{
+    padding-top: 30px;
+}
+.comp2{
+    padding-top: 30px;
+}
+.comp3{
+    margin-top: 5px;
+    transform: rotate(-1deg);
+}
+.comp4{
+    margin-top: -15px;
+    transform: rotate(5deg);
+}
+.comps-right
+{
+padding-top: 15px;
+}
+.comp5{
+    padding-top: 15px;
+}
+.comp6{
+    margin-top: 25px;
+    transform: rotate(-2deg);
+}
+.comp7{
+    margin-top: 3px;
+    transform: rotate(-3deg);
+}
+.comp8{
+    margin-top: -20px;
+}
+
+.competitions{
+    padding-top: 70px;
+}
+.skills
+{
+    padding-top: 80px;
+}
+.graphic
+{
+padding-top: 30px;
+}
+.graphic1
+{
+padding-top: 15px;    
+}
+.fl
+{
+    margin-top: -1px;
+}
